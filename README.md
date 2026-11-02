@@ -42,5 +42,39 @@ The dataset contains 10 customers, 10 accounts, and 10 transactions. Therefore, 
 ## Conclusion
 This project demonstrates how Python, SQL, and data visualisation can be used to analyse banking data, identify patterns, and communicate business insights.
 
+## Jupyter Notebook
+
+Explore the complete Python analysis, including data cleaning, exploratory data analysis, calculations, business insights, and visualisations.
+
+[View the Complete Python Banking Analysis Notebook](python%20banking%20analysis.ipynb)
+
+## Data Visualisations
+
+The following charts present the key findings from the banking data analysis.
+
+### 1. Banking Financial Performance
+![Banking Financial Performance](banking_financial_kpis.png)
+
+### 2. Account Balance by Account Type
+![Account Balance by Type](account_balance_by_type%20(7).png)
+
+### 3. Transaction Analysis
+![Transaction Analysis](transaction_analysis.png)
+
+### 4. Loan Analysis
+![Loan Analysis](loan_analysis.png)
+
+### 5. Customer Account Analysis
+![Customer Account Analysis](customer-account-type-activity.png)
+
+### 6. Customer Balance Analysis
+![Customer Balance Analysis](customer_balance_analysis.png)
+
+### 7. Branch Balance Analysis
+![Branch Balance Analysis](branch_balance_analysis.png)
+
+### 8. Customer Transaction Activity
+![Customer Transaction Activity](customer-transaction%20activity.png)
+
 **Author:** Emmanuel Best Maobughichi
 		Data Analyst
